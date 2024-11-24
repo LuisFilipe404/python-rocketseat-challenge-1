@@ -1,1 +1,3 @@
-# python-rocketseat-challenge-1
+# Desafio Python Rocketseat #1
+
+Realizar uma Agenda de contatos em Python.
